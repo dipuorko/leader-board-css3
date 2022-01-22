@@ -12,10 +12,7 @@ header{
     background-color: #562EFF;
     
 }
-/* nav{
-    width: 870px;
-    background-color: darkgoldenrod ;
-} */
+
 nav .nav-bar{
     width: 870px;
     display: flex;
